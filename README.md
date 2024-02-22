@@ -16,7 +16,3 @@ On the other side the system also syncs the data to the Webserver. The above sys
 use of several sensors like IR sensor, Proximity sensor, Humidity Sensor, Gas sensor, and several
 other modules and microprocessors like node MCU. On the major side it will take an attempt to
 keep Realtime data over the cloud to the database along with email alert.
-
-
-
-//updated
